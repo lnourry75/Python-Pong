@@ -11,7 +11,9 @@ Mon jeu Pong est un petit peu spéciale, déjà la balle n'est pas remise au cen
 
 .Un carré rouge qui est un malus qui renverra la balle dans le terrain du joueur d'ou elle vient à une vitesse aléatoire
 
-.Un carré vert qui est un bonus qui enverra la balle directement dans le sens d'ou elle vient à une vitesse aléatoire 
+.Un carré vert qui est un bonus qui enverra la balle directement dans le terrain de l'adversaire à une vitesse aléatoire 
+
+A noter que la balle peut ricocher entre les 2 carrés plusieurs fois d'afiler il faut donc être extrêmement réactif à tout instant !
 
 Amusez-vous bien avec mon jeu Pong :DDD
 
